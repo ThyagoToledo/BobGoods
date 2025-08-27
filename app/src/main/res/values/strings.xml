@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Bobbie Goods</string>
+
+    <!-- MainActivity -->
+    <string name="app_title">Bobbie Goods - Pintura Digital</string>
+    <string name="choose_image_text">Escolha uma imagem para pintar:</string>
+    <string name="colors_text">Cores:</string>
+    <string name="zoom_instructions">💡 Use dois dedos para fazer zoom e arrastar para navegar</string>
+
+    <!-- Buttons -->
+    <string name="gallery_button">📁 Galeria</string>
+    <string name="reset_zoom_button">🔍 Reset</string>
+    <string name="bucket_mode_button">Modo Balde</string>
+    <string name="brush_mode_button">Modo Pincel</string>
+    <string name="clear_button">Limpar</string>
+    <string name="save_button">Salvar</string>
+
+    <!-- Gallery Activity -->
+    <string name="my_paintings_title">Minhas Pinturas</string>
+    <string name="paintings_subtitle">Suas obras de arte</string>
+    <string name="empty_gallery_message">🎨\n\nNenhuma pintura salva ainda.\nComece criando sua primeira obra de arte!</string>
+
+    <!-- Viewer Activity -->
+    <string name="view_painting_title">Visualizar Pintura</string>
+    <string name="loading_info">Carregando informações...</string>
+
+    <!-- Toast messages -->
+    <string name="zoom_reset">Zoom resetado</string>
+    <string name="painting_saved">Desenho salvo com sucesso!</string>
+    <string name="save_error">Erro ao salvar: %s</string>
+    <string name="load_error">Erro ao carregar pintura: %s</string>
+    <string name="file_not_found">Arquivo não encontrado</string>
+    <string name="invalid_path">Caminho inválido</string>
+
+    <!-- Date formats -->
+    <string name="date_format_display">dd/MM/yyyy HH:mm</string>
+    <string name="date_format_full">dd/MM/yyyy \'às\' HH:mm</string>
+    <string name="file_size_format">%.1f KB</string>
+    <string name="created_on" formatted="false">Criada em %s\nTamanho: %s</string>
+</resources>

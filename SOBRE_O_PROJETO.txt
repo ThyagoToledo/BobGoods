@@ -1,0 +1,33 @@
+# Sobre o Projeto BobGoods
+
+O BobGoods é um aplicativo Android desenvolvido para facilitar o gerenciamento e visualização de produtos, com foco em usabilidade e design moderno. O projeto foi criado utilizando o Android Studio e segue as boas práticas de desenvolvimento mobile.
+
+## Funcionalidades
+- Cadastro e visualização de produtos
+- Interface intuitiva e responsiva
+- Utilização de ícones personalizados
+- Suporte a diferentes resoluções de tela
+
+## Estrutura do Projeto
+O projeto está organizado conforme o padrão Android:
+- `app/src/main/java/`: Código-fonte principal do aplicativo
+- `app/src/main/res/`: Recursos visuais, como layouts, imagens e ícones
+- `app/src/main/AndroidManifest.xml`: Configurações e permissões do app
+- `icons/`: Imagens utilizadas para ícones e outros recursos gráficos
+
+## Bibliotecas Utilizadas
+O projeto utiliza algumas bibliotecas importantes para garantir qualidade e funcionalidades avançadas:
+- **AndroidX**: Conjunto de bibliotecas de componentes modernos para Android, como navegação, ciclo de vida, etc.
+- **Material Components**: Para design visual seguindo o padrão Material Design do Google.
+- **Kotlin Standard Library**: Linguagem principal do projeto, trazendo recursos modernos e seguros.
+- **Glide/Picasso** (se aplicável): Para carregamento eficiente de imagens.
+- **Room** (se aplicável): Para persistência local de dados.
+
+## Sobre o Aplicativo
+O BobGoods foi pensado para ser simples, eficiente e visualmente agradável. O ícone do aplicativo foi personalizado para refletir a identidade visual do projeto. O app pode ser facilmente expandido para incluir novas funcionalidades, como integração com banco de dados remoto, notificações e muito mais.
+
+## Como Gerar o APK
+Para gerar o APK do aplicativo, basta utilizar o Android Studio pelo menu `Build > Build APK(s)` ou executar o comando `./gradlew assembleDebug` no terminal. O arquivo gerado estará disponível em `app/build/outputs/apk/`.
+
+---
+Este documento serve como uma breve introdução ao projeto, suas bibliotecas e principais características.

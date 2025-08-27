@@ -1,0 +1,67 @@
+Desenvolvimento de um Aplicativo Android em Kotlin
+Desenvolver um aplicativo Android, utilizando Kotlin, que possua uma única tela funcional e seja instalado em um smartphone real para demonstração. O trabalho será realizado individualmente ou em duplas.
+
+Requisitos:
+1. Tema Livre
+O aplicativo pode ter qualquer finalidade, desde que seja simples, funcional e adequado. Exemplos incluem:
+
+Calculadora básica
+
+To-do list de uma única tela
+
+Gerador de frases motivacionais
+
+Conversor de unidades (ex.: temperatura, moedas, medidas)
+
+Cronômetro ou temporizador
+
+Exibição de informações dinâmicas (ex.: API de clima, piadas, citações)
+
+2. Estrutura e Conteúdo
+O app deve conter pelo menos:
+
+Uma tela única funcional (Activity).
+
+Layout bem definido (com textos, botões, campos de entrada ou listas).
+
+Funcionalidade mínima (um recurso que o usuário possa executar, como calcular, salvar, converter ou exibir dados).
+
+3. Design e Layout
+O design deve ser organizado e deve-se utilizar boas práticas de UI/UX.
+
+4. Tecnologias Obrigatórias
+Kotlin como linguagem principal.
+
+Android Studio como IDE de desenvolvimento.
+
+5. Vídeo
+Cada aluno/dupla deverá gravar um vídeo de no mínimo 3 minutos, mostrando:
+
+A explicação do conceito e a utilidade do aplicativo.
+
+A instalação do APK em um smartphone real.
+
+A demonstração do funcionamento da única tela.
+
+Elementos criativos na apresentação (ex.: encenação de uso no dia a dia).
+
+Critérios de Avaliação
+Qualidade do Código: organização, legibilidade e boas práticas.
+
+Funcionalidade: o app deve executar corretamente sua proposta.
+
+Design e Experiência do Usuário: layout claro e usabilidade.
+
+Inovação: criatividade no tema e na forma de apresentar.
+
+Vídeo: clareza, didática e criatividade na explicação.
+
+Entrega Final:
+
+Link Online para o projeto finalizado.
+
+Link Online para o APK.
+
+Link Online para o vídeo.
+
+Data de Entrega: 25/08/25

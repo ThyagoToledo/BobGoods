@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores principais do tema -->
+    <color name="primary_color">#2E7D32</color>
+    <color name="secondary_color">#4CAF50</color>
+    <color name="background_main">#F5F5F5</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+    <!-- Cores para pintura -->
+    <color name="paint_red">#F44336</color>
+    <color name="paint_blue">#2196F3</color>
+    <color name="paint_yellow">#FFEB3B</color>
+    <color name="paint_green">#4CAF50</color>
+    <color name="paint_purple">#9C27B0</color>
+    <color name="paint_brown">#795548</color>
+    <color name="paint_black">#000000</color>
+
+    <!-- Cores faltantes encontradas nos erros -->
+    <color name="tab_background">#E0E0E0</color>
+    <color name="progress_color">#FF9800</color>
+    <color name="success_color">#4CAF50</color>
+
+    <!-- Cores padrão do Material Design -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

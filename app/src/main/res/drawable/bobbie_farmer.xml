@@ -1,0 +1,201 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="350dp"
+    android:viewportWidth="400"
+    android:viewportHeight="350">
+
+    <!-- Fundo com montanhas -->
+    <path
+        android:pathData="M0,80 C20,60 40,70 60,50 C80,30 100,40 120,30 C140,20 160,25 180,20 C200,15 220,20 240,25 C260,30 280,25 300,35 C320,45 340,35 360,45 C380,55 390,50 400,60 L400,0 L0,0 Z"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="2"
+        android:fillColor="@android:color/transparent"/>
+
+    <!-- Árvores ao fundo -->
+    <path
+        android:pathData="M320,45 C315,25 325,25 335,25 C345,25 355,35 350,45 L350,80 L320,80 Z"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="2"
+        android:fillColor="@android:color/transparent"/>
+
+    <path
+        android:pathData="M340,50 C335,30 345,30 355,30 C365,30 375,40 370,50 L370,85 L340,85 Z"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="2"
+        android:fillColor="@android:color/transparent"/>
+
+    <!-- Fazendeiro Bobbie - Cabeça -->
+    <path
+        android:pathData="M160,120 C160,100 180,90 200,90 C220,90 240,100 240,120 L240,150 L160,150 Z"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="2"
+        android:fillColor="@android:color/transparent"/>
+
+    <!-- Chapéu do fazendeiro -->
+    <path
+        android:pathData="M150,120 L250,120 C255,120 255,115 250,115 L150,115 C145,115 145,120 150,120 Z"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="2"
+        android:fillColor="@android:color/transparent"/>
+
+    <!-- Aba do chapéu -->
+    <path
+        android:pathData="M150,115 C150,107 170,107 200,107 C230,107 250,107 250,115 C250,123 230,123 200,123 C170,123 150,123 150,115 Z"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="2"
+        android:fillColor="@android:color/transparent"/>
+
+    <!-- Olhos -->
+    <path
+        android:pathData="M177,130 C177,128.3 178.3,127 180,127 C181.7,127 183,128.3 183,130 C183,131.7 181.7,133 180,133 C178.3,133 177,131.7 177,130 Z"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="1"
+        android:fillColor="@android:color/black"/>
+
+    <path
+        android:pathData="M217,130 C217,128.3 218.3,127 220,127 C221.7,127 223,128.3 223,130 C223,131.7 221.7,133 220,133 C218.3,133 217,131.7 217,130 Z"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="1"
+        android:fillColor="@android:color/black"/>
+
+    <!-- Nariz -->
+    <path
+        android:pathData="M198,140 C198,138.9 198.9,138 200,138 C201.1,138 202,138.9 202,140 C202,141.1 201.1,142 200,142 C198.9,142 198,141.1 198,140 Z"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="1"
+        android:fillColor="@android:color/transparent"/>
+
+    <!-- Corpo -->
+    <path
+        android:pathData="M170,150 L230,150 L230,220 L170,220 Z"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="2"
+        android:fillColor="@android:color/transparent"/>
+
+    <!-- Braços -->
+    <path
+        android:pathData="M170,170 L130,190 L135,205 L170,185"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="2"
+        android:fillColor="@android:color/transparent"/>
+
+    <path
+        android:pathData="M230,170 L270,185 L275,200 L240,185"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="2"
+        android:fillColor="@android:color/transparent"/>
+
+    <!-- Balde -->
+    <path
+        android:pathData="M270,185 L290,185 L295,205 L265,205 Z"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="2"
+        android:fillColor="@android:color/transparent"/>
+
+    <!-- Água no balde -->
+    <path
+        android:pathData="M270,190 C275,188 285,188 290,190 L288,200 L272,200 Z"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="1"
+        android:fillColor="@android:color/transparent"/>
+
+    <!-- Pernas -->
+    <path
+        android:pathData="M180,220 L180,270 L190,270 L190,220"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="2"
+        android:fillColor="@android:color/transparent"/>
+
+    <path
+        android:pathData="M210,220 L210,270 L220,270 L220,220"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="2"
+        android:fillColor="@android:color/transparent"/>
+
+    <!-- Cerca -->
+    <path
+        android:pathData="M30,240 L370,240 L370,290 L30,290 Z"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="2"
+        android:fillColor="@android:color/transparent"/>
+
+    <!-- Estacas da cerca -->
+    <path
+        android:pathData="M50,240 L50,210 M80,240 L80,210 M110,240 L110,210 M140,240 L140,210 M300,240 L300,210 M330,240 L330,210"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="2"/>
+
+    <!-- Portão da cerca -->
+    <path
+        android:pathData="M140,240 L300,240 L300,220 L140,220 Z M160,240 L160,220 M180,240 L180,220 M200,240 L200,220 M220,240 L220,220 M240,240 L240,220 M260,240 L260,220 M280,240 L280,220"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="1.5"/>
+
+    <!-- Porquinho grande - corpo -->
+    <path
+        android:pathData="M95,280 C95,262 105,262 120,262 C135,262 145,262 145,280 C145,298 135,298 120,298 C105,298 95,298 95,280 Z"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="2"
+        android:fillColor="@android:color/transparent"/>
+
+    <!-- Cabeça do porquinho grande -->
+    <path
+        android:pathData="M93,270 C93,260 97,260 105,260 C113,260 117,260 117,270 C117,280 113,280 105,280 C97,280 93,280 93,270 Z"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="2"
+        android:fillColor="@android:color/transparent"/>
+
+    <!-- Focinho do porquinho grande -->
+    <path
+        android:pathData="M89,275 C89,271 91,271 95,271 C99,271 101,271 101,275 C101,279 99,279 95,279 C91,279 89,279 89,275 Z"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="1.5"
+        android:fillColor="@android:color/transparent"/>
+
+    <!-- Olhos do porquinho grande -->
+    <path
+        android:pathData="M98,268 C98,266.9 98.9,266 100,266 C101.1,266 102,266.9 102,268 C102,269.1 101.1,270 100,270 C98.9,270 98,269.1 98,268 Z"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="1"
+        android:fillColor="@android:color/black"/>
+
+    <path
+        android:pathData="M106,268 C106,266.9 106.9,266 108,266 C109.1,266 110,266.9 110,268 C110,269.1 109.1,270 108,270 C106.9,270 106,269.1 106,268 Z"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="1"
+        android:fillColor="@android:color/black"/>
+
+    <!-- Orelhas do porquinho grande -->
+    <path
+        android:pathData="M98,262 L95,258 L103,258 Z"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="1"
+        android:fillColor="@android:color/transparent"/>
+
+    <path
+        android:pathData="M108,262 L105,258 L113,258 Z"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="1"
+        android:fillColor="@android:color/transparent"/>
+
+    <!-- Rabo do porquinho grande -->
+    <path
+        android:pathData="M145,280 C150,275 155,280 150,285 C148,283 146,281 145,280"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="1.5"
+        android:fillColor="@android:color/transparent"/>
+
+    <!-- Porquinhos pequenos -->
+    <path
+        android:pathData="M250,290 C250,280 255,280 265,280 C275,280 280,280 280,290 C280,300 275,300 265,300 C255,300 250,300 250,290 Z"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="2"
+        android:fillColor="@android:color/transparent"/>
+
+    <path
+        android:pathData="M310,285 C310,275 315,275 325,275 C335,275 340,275 340,285 C340,295 335,295 325,295 C315,295 310,295 310,285 Z"
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="2"
+        android:fillColor="@android:color/transparent"/>
+
+</vector>
